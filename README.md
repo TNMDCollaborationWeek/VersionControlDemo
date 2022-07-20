@@ -11,6 +11,13 @@
 + Push to remote `name_dev` branch. 
 + Merge from `name_dev` to `main` branch in remote repository.  
 
+**Update:**
+
+```r
+# Add code here 
+```
+
+
 # Second demo
 + Create a local `name_dev` branch and checkout the local branch.  
 + Pull remote repository changes.  
