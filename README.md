@@ -10,7 +10,12 @@
 + Rescan i.e. add new code changes.  
 + Commit new code changes.  
 + Push to remote `name_dev` branch. 
-+ Merge from `name_dev` to `main` branch in remote repository.  
++ Merge from `name_dev` to `main` branch in remote repository.    
+
+**add new code*** 
+```r
+#code
+```
 
 # Second demonstrator   
 + Clone remote repository (do this before the first demonstrator has pushed their code changes).    
