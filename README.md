@@ -13,11 +13,7 @@
 + Merge from `name_dev` to `main` branch in remote repository.    
 
 ***
-## New code sits here
-+ dot point 1
-+ dot point 2
-
-end of code change 
+> Latest code changes from Erika dev
 ***
 
 
