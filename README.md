@@ -12,10 +12,6 @@
 + Push to remote `name_dev` branch. 
 + Merge from `name_dev` to `main` branch in remote repository.    
 
-***
-> Latest code changes from Erika dev
-***
-
 
 # Second demonstrator   
 + Clone remote repository (do this before the first demonstrator has pushed their code changes).    
