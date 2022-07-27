@@ -12,15 +12,6 @@
 + Push to remote `name_dev` branch. 
 + Merge from `name_dev` to `main` branch in remote repository.    
 
-***
-## New code sits here
-+ dot point 1
-+ dot point 2
-
-end of code change 
-***
-
-
 # Second demonstrator   
 + Clone remote repository (do this before the first demonstrator has pushed their code changes).    
 + Create a local `name_dev` branch and checkout the local branch (do this before the first demonstrator has pushed their code changes).   
