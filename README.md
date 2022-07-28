@@ -12,6 +12,17 @@
 + Push to remote `name_dev` branch. 
 + Merge from `name_dev` to `main` branch in remote repository.    
 
+***
+# Code by Erika 
+
+```r 
+1+1
+```
+
+![](pikachu.gif)
+
+***
+
 
 # Second demonstrator   
 + Clone remote repository (do this before the first demonstrator has pushed their code changes).    
